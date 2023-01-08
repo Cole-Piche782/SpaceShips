@@ -1,6 +1,6 @@
 # SpaceShips
 This is a game I created using the most basic Java libraries I could, including Swing, and libraries to test for keyboard and mouse inputs. 
-I was hoping to test and demonstrate my ability to create a game from the ground up, without using pre-build physics programs or similar things.
+I was hoping to test and demonstrate my ability to create a game from the ground up, without using pre-built physics programs or collisions detection.
 
 Detailed graphics were not the main area of focus for this project. In game entites are represented are represented by circles and squares.
 
